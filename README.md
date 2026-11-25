@@ -1,8 +1,8 @@
 ## EXPERIMENT NO. 1 – VERIFICATION OF KIRCHHOFF'S LAWS
 
-| **Name:** |  | **Reg. No.:** |  |
+| Name: Jositha Christina s |  | Reg. No.:26015461|  |
 |---|---|---|---|
-| **Date:** | | **Batch / Section:** | |
+| Date:25/11/2026 | | Batch / Section:cse | |
 
 ---
 
@@ -54,13 +54,14 @@ b. To verify Kirchhoff's Current Law (KCL) for the given circuit.
 
 ### A. KVL circuit diagram
 
-*[ Insert the KVL circuit diagram here ]*
+<img width="1314" height="705" alt="Screenshot 2026-10-24 141755" src="https://github.com/user-attachments/assets/3646e2a0-22be-462c-a988-cf4929ceaa9c" />
+
 
 **Figure 1:** KVL verification circuit
 
 ### B. KCL circuit diagram
 
-*[ Insert the KCL circuit diagram here ]*
+<img width="1398" height="599" alt="Screenshot 2026-10-24 143924" src="https://github.com/user-attachments/assets/e42d3540-9f20-4a19-880d-14c4baf98f80" />
 
 **Figure 2:** KCL verification circuit
 
